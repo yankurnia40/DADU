@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Aset SMKN 40 (KIB B, KIB J & MPSA)",
+  "description": "Dashboard Pencarian dan Pengelolaan Inventaris Aset Peralatan dan Mesin SMKN 40 DKI Jakarta: KIB B (Aset Aktif), KIB J (Aset Rusak), dan MPSA (Proses Penetapan Majelis).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
